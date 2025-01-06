@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://mts-ml.github.io/development/loopstudios-landing-page/index.html)
+- [Live Site URL](https://mts-ml.github.io/loopstudios-landing-page/)
 
 
 ## My process
